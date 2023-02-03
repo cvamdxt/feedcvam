@@ -14,6 +14,10 @@ For [AppsAttic](https://appsattic.com/), [@AppsAttic](https://twitter.com/AppsAt
 
 ## License ##
 
+AvsarHub - Get all the notifications of Government jobs, PSU jobs, IT Jobs all in one place.
+[Sarkari Results](https://www.Avsarhub.com))
+
 [MIT](https://publish.li/mit-license-CPdxXSZb).
 
 (Ends)
+
